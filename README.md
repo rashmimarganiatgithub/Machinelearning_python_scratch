@@ -6,4 +6,4 @@ Implementating the machine learning algorithm from scratch helps to understand d
 
 So let's get started.
 
-This repo will be updated with robost algorithm implementing from scratch going forward.
+This repo will be updated with robost ML algorithms from scratch going forward.
